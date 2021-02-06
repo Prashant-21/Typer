@@ -7,7 +7,3 @@
   <img src="./demo/typer.jpg" height="250px">
 </p>
 <hr>
-<h4>
-☣NOTE:☢ GitHub Page📟 for this web app won't❌ work properly because of the inability to make 💱API🔄request🔃 while hosted on GitHub🌐.
-</h4>
-<hr>
